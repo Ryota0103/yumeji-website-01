@@ -1,0 +1,35 @@
+body{
+    background-image: url(images/bgpic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    text-align: center;
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{letter-spacing: 0.3em}
+
+.icon{
+    margin-top:260px;
+}
+
+img.yumeji-icon{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.links{
+    margin-top: 25px;
+}
+
+.links a{
+    text-decoration: none;
+    padding: 3px;
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
